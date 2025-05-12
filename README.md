@@ -17,7 +17,7 @@ This repository explores how Paul Grice’s Cooperative Principle—comprising t
    – Review extensions (e.g. Benevolence, Transparency) tailored for AI.
 
 2. **Empirical Evaluation**  
-   – Analyze LLM performance (GPT‑3 through GPT‑4) on tasks like implicature resolution, informativeness, truthfulness, and clarity.
+   – Analyze LLM performance on tasks like implicature resolution, informativeness, truthfulness, and clarity.
 
 3. **Tools & Notebooks**  
    – Ready‑to‑run Python notebooks with examples of norm‑based prompting, evaluation scripts, and visualizations.  
