@@ -10,13 +10,9 @@ Krause, L., & Vossen, P. (2024). The Gricean maxims in NLP: A survey. In *Procee
 
 Miehling, E., Nagireddy, M., Sattigeri, P., Daly, E. M., & Richards, J. T. (2024). Language models in dialogue: Conversational maxims for human‑AI interactions. *arXiv:2403.15115*.
 
-Morris, M., Cuenca Grau, B., & Horrocks, I. (2023). Do large language models understand implicature? A: Do pigs fly? [Manuscript submitted for publication]. Under review at ICLR 2023.
-
 Park, E., Choi, S., Lee, K., & Kim, H. (2025). Applying the Gricean maxims to a human‑LLM interaction cycle: Design insights from a participatory approach. *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25)*. https://doi.org/10.1145/3706599.3719759
 
 Saad, F., Murukannaiah, P. K., & Singh, M. P. (2025). Gricean norms as a basis for effective collaboration. *arXiv:2503.14484*.
-
-Stefanowicz, A., Kowalski, T., & Müller, F. (2024). Grice violation dialogues: A dataset for evaluating pragmatic competence of dialogue systems. In *Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2024)*. European Language Resources Association.
 
 Wölfel, M., Shirzad, M. B., Reich, A., & Anderer, K. (2024). Knowledge‑based and generative‑AI‑driven pedagogical conversational agents: A comparative study of Grice’s cooperative principles and trust. *Big Data and Cognitive Computing, 8*(1), Article 2. https://doi.org/10.3390/bdcc8010002
 
