@@ -4,13 +4,13 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository explores how Paul Grice’s Cooperative Principle—comprising the four conversational maxims (Quantity, Quality, Relevance, Manner)—can guide both the **design** and **evaluation** of Large Language Models (LLMs). We survey theoretical frameworks, present empirical evaluations of model behavior against Gricean norms, and demonstrate prompting and interface techniques for fostering truly cooperative AI dialogue.
 
 ---
 
-##Project Goals
+## Project Goals
 
 1. **Theoretical Foundations**  
    – Map Grice’s maxims to computational dialogue systems.  
