@@ -1,26 +1,23 @@
-# COMM4190 Spring 2025 - Research Project
+# Grice-LLM-Cooperation
 
-* Use this repository for your Research Project
-
-
-### Overview
-
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
+**Applying Grice’s Cooperative Principle to LLM Design & Evaluation**
 
 ---
 
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
+## 📖 Overview
 
+This repository explores how Paul Grice’s Cooperative Principle—comprising the four conversational maxims (Quantity, Quality, Relevance, Manner)—can guide both the **design** and **evaluation** of Large Language Models (LLMs). We survey theoretical frameworks, present empirical evaluations of model behavior against Gricean norms, and demonstrate prompting and interface techniques for fostering truly cooperative AI dialogue.
+
+---
+
+##Project Goals
+
+1. **Theoretical Foundations**  
+   – Map Grice’s maxims to computational dialogue systems.  
+   – Review extensions (e.g. Benevolence, Transparency) tailored for AI.
+
+2. **Empirical Evaluation**  
+   – Analyze LLM performance (GPT‑3 through GPT‑4) on tasks like implicature resolution, informativeness, truthfulness, and clarity.
+
+3. **Tools & Notebooks**  
+   – Ready‑to‑run Python notebooks with examples of norm‑based prompting, evaluation scripts, and visualizations.  
